@@ -1,6 +1,11 @@
 # adm.finder
 Admin Page Finder website with python 😈
 
+# Kebolehan
+- Tool ini menghantar request ke website untuk memeriksa samaada admin page yang diteka wujud atau tidak.
+<br>
+- Tool ini menguji mencari senarai nama page login di list dan proses akan berhenti seketika setiap 5 saat untuk mengelakkan ancaman spam di web server victim.
+
 # Versi python
 => 3.11.9
 
@@ -22,9 +27,8 @@ pip install -r requirements.txt
 
 # Jalankan tool
 ```bash
-python afd.py
+python main.py
 ```
 
-- Baca lebih lagi documentasi :)
 - selamat menggunakan
 - educational purposes only

@@ -19,6 +19,10 @@ instadmin/
 memberadmin/
 administratorlogin/
 adm/
+contact_form/admin.php
+contact_form/login.php
+contact_form/admin.html
+contact_form/login.html
 admin/account.php
 admin/index.php
 admin/login.php

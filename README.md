@@ -3,7 +3,7 @@ Admin Page Finder website with python 😈
 
 # Kebolehan
 - Tool ini menghantar request ke website untuk memeriksa samaada admin page yang diteka wujud atau tidak.
-<br>
+<br/>
 - Tool ini menguji mencari senarai nama page login di list dan proses akan berhenti seketika setiap 5 saat untuk mengelakkan ancaman spam di web server victim.
 
 # Versi python

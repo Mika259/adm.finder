@@ -1,0 +1,6 @@
+admin/
+adm/
+admin/login/
+admib/login.php
+filemanager/
+laravel-filemanager/

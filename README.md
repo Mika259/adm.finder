@@ -6,6 +6,7 @@ Admin Page Finder website with python 😈
 
   
 - Tool ini menguji mencari senarai nama page login di list dan proses akan berhenti seketika setiap 5 saat untuk mengelakkan ancaman spam di web server victim.
+- maaf tak boleh custom masa berhenti, sebab boleh
 
 # Versi python
 => 3.11.9

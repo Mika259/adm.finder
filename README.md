@@ -1,28 +1,30 @@
 # adm.finder
 Admin Page Finder website with python 😈
 
-# Python version
+# Versi python
 => 3.11.9
 
+# Pemasangan
 - Clone repository
 ```bash
 git clone https://github.com/mika259/adm.finder
 ```
 
-- Open directory
+- Buka directory
 ```bash
 cd adm.finder
 ```
 
-- Install requirements
+- Pasang requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-# Run Tool
+# Jalankan tool
 ```bash
 python afd.py
 ```
 
-- read more documentation :)
-- happy using
+- Baca lebih lagi documentasi :)
+- selamat menggunakan
+- educational purposes only

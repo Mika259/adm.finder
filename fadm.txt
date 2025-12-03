@@ -1,5 +1,6 @@
 admin/
 administrator/
+administration/
 admin1/
 admin2/
 admin3/
@@ -18,7 +19,7 @@ panel-administracion/
 instadmin/
 memberadmin/
 administratorlogin/
-adm/
+login/
 contact_form/admin.php
 contact_form/login.php
 contact_form/admin.html
